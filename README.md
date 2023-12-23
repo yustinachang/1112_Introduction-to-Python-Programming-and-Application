@@ -7,3 +7,6 @@ https://webapt.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1112/00264_0CCGE0181920.pdf
 
 ### Final project
 使用PyGame製作闖關類單機遊戲「無盡地底」 / Build "Dungeon" with Pygame
+
+as a great team work, my team role may be like __ and __.
+Proposing main directions and framework, coding the menu and stage 3rd, and acceptance of final version.
